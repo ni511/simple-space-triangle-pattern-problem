@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// Simple space triangle pattern problem
 #include<iostream>
 using namespace std;
 int main()
